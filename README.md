@@ -14,7 +14,7 @@ Semestre: 2026.2
 
 # 2. Visão Geral
 
-O projeto Calculadora foi desenvolvido em Java com o objetivo de realizar operações matemáticas básicas, para que possa ser utilizado na startup fictícia FinançApp, assim sendo usado futuramente em tarefas do tipo controle financeiro.
+O projeto Calculadora foi desenvolvido em Java com o objetivo de realizar operações matemáticas básicas. A aplicação foi criada como parte da startup fictícia FinançApp, podendo futuramente auxiliar em funcionalidades relacionadas ao controle financeiro.
 
 O projeto também tem como finalidade demonstrar boas práticas de programação, incluindo refatoração de código, métodos puros, documentação com JavaDoc e aplicação de testes unitários.
 
@@ -100,6 +100,29 @@ projeto_calculadora/
 │   └── refatoracao/
 │
 └── README.md
+O projeto foi organizado em pastas para facilitar a identificação dos arquivos e manter uma estrutura simples e organizada.
+
+**•** src/: contém os arquivos principais do código-fonte.
+
+**•** calculadora/: pacote onde estão as classes Java.
+
+**•** Calculadora.java: contém os métodos responsáveis pelas operações matemáticas.
+
+**•** TesteCalculadora.java: contém os testes unitários utilizados para verificar o funcionamento da calculadora.
+
+**•** docs/: armazena a documentação gerada pelo JavaDoc.
+
+**•** index.html: arquivo principal para visualizar a documentação no navegador.
+
+**•** images/: armazena imagens e evidências do desenvolvimento.
+
+**•** testes/: contém imagens dos testes realizados.
+
+**•** javadoc/: contém evidências da documentação JavaDoc.
+
+**•** refatoracao/: contém imagens das melhorias realizadas no código.
+
+**•** README.md: apresenta as informações gerais do projeto, seus objetivos, funcionalidades, tecnologias utilizadas e conclusão.
 
 # 9. Operações Implementadas
 
@@ -148,9 +171,12 @@ Também foi possível praticar o uso do Git e GitHub para controlar versões e o
 
 Com isso, o resultado foi um código mais organizado, legível e fácil de manter, além de proporcionar maior compreensão sobre a importância da qualidade e dos testes no desenvolvimento de software.
 
-# 5. Autor
+# 12. Autor
 
 Nome: Rafael Reis Táparo
+
 RA: 250891
+
 Curso de Análise e Desenvolvimento de Sistemas
+
 Centro Universitário Facens
