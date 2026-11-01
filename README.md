@@ -26,5 +26,5 @@ Por isso, foi realizada uma refatoração com o objetivo de tornar o código mai
 
 # 4. Objetivo
 
-#4.1 Objetivo Geral
+# 4.1 Objetivo Geral
 O objetivo do projeto é desenvolver uma calculadora em Java que realize operações matemáticas básicas, aplicando boas práticas de programação.
