@@ -84,4 +84,73 @@ O objetivo do projeto é desenvolver uma calculadora em Java que realize operaç
 
 # 8. Estrutura do Projeto
 
+projeto_calculadora/
+│
+├── src/
+│   └── calculadora/
+│       ├── Calculadora.java
+│       └── TesteCalculadora.java
+│
+├── docs/
+│   └── index.html
+│
+├── images/
+│   ├── testes/
+│   ├── javadoc/
+│   └── refatoracao/
+│
+└── README.md
 
+# 9. Operações Implementadas
+
+# Soma
+Realiza a adição de dois números inteiros.
+
+2 + 3 = 5
+
+# Subtração
+Calcula a diferença entre dois números inteiros.
+
+10 - 4 = 6
+
+# Multiplicação
+Multiplica dois números inteiros.
+
+3 * 5 = 15
+
+# Divisão
+Realiza a divisão entre dois números inteiros, desde que o divisor seja diferente de zero.
+
+8 / 2 = 4
+
+A calculadora possui tratamento para operações inválidas. Quando ocorre uma tentativa de divisão por zero ou a utilização de um operador não reconhecido, o sistema apresenta uma exceção correspondente, sendo elas: Uma tentativa de divisão por zero que gera uma "ArithmeticException", enquanto um operador não suportado gera uma "IllegalArgumentException".
+
+# 10. Testes Unitários
+
+Os testes foram desenvolvidos com JUnit 5 para verificar se as operações apresentam os resultados esperados.
+
+Foram considerados os seguintes casos:
+
+Soma;
+Subtração;
+Multiplicação;
+Divisão;
+Divisão por zero;
+Operação inválida.
+
+# 11. Conclusão
+
+O desenvolvimento do projeto Calculadora permitiu aplicar conhecimentos de programação Java e boas práticas de desenvolvimento de software.
+
+Durante o projeto, foram realizadas melhorias no código por meio da refatoração, utilização de métodos puros, tratamento de exceções, documentação com JavaDoc e testes unitários.
+
+Também foi possível praticar o uso do Git e GitHub para controlar versões e organizar o desenvolvimento do projeto.
+
+Com isso, o resultado foi um código mais organizado, legível e fácil de manter, além de proporcionar maior compreensão sobre a importância da qualidade e dos testes no desenvolvimento de software.
+
+# 5. Autor
+
+Nome: Rafael Reis Táparo
+RA: 250891
+Curso de Análise e Desenvolvimento de Sistemas
+Centro Universitário Facens
