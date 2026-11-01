@@ -23,3 +23,8 @@ O projeto também tem como finalidade demonstrar boas práticas de programação
 O código inicial da calculadora apresentava alguns problemas relacionados à organização e à qualidade do código, dificultando sua leitura, manutenção e realização de testes.
 Entre os principais pontos identificados estavam a necessidade de melhorar a estrutura dos métodos.
 Por isso, foi realizada uma refatoração com o objetivo de tornar o código mais organizado, legível, seguro e fácil de testar.
+
+# 4. Objetivo
+
+#4.1 Objetivo Geral
+O objetivo do projeto é desenvolver uma calculadora em Java que realize operações matemáticas básicas, aplicando boas práticas de programação.
