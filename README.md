@@ -1,5 +1,5 @@
 # Projeto Calculadora — FinançApp
-Este projeto foi desenvolvido como atividade acadêmica para praticar a criação de uma calculadora em Java. Durante o desenvolvimento, os assuntos trabalhados foram operações matemáticas, testes unitários, tratamento de erros, refatoração, documentação e versionamento do projeto e qualidade de projeto.
+> Este projeto foi desenvolvido como atividade acadêmica para praticar a criação de uma calculadora em Java. Durante o desenvolvimento, os assuntos trabalhados foram operações matemáticas, testes unitários, tratamento de erros, refatoração, documentação e versionamento do projeto e qualidade de projeto.
 
 # 1. Identificação do Projeto
 
